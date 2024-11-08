@@ -36,18 +36,14 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Ujwaldevgade/Inventory-Dashboard.git
 
-2. Navigate into the project directory:
-   ```bash
-   cd your-repo-name
-
-3. Install the dependencies:
+2. Install the dependencies:
    ```bash
    npm install
 
-4. Run the app locally:
+3. Run the app locally:
    ```bash
    npm start
 
-5. Open the app in your browser: Open your browser and visit http://localhost:3000 to see the app in action.
+4. Open the app in your browser: Open your browser and visit http://localhost:3000 to see the app in action.
